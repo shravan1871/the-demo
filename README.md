@@ -1,3 +1,4 @@
 # the-demo
-this is my demo repo
-author SG
+this is my demo repo,
+<br>
+author = SG
